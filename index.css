@@ -1,0 +1,111 @@
+body{
+
+  background-image: url("office.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+.container{
+
+  border: 2px solid white;
+  padding: 38px;
+  border-style: double;
+  border-radius: 10px;
+
+}
+
+.image{
+ 
+  background-repeat: no repeat;
+  width: 350px;
+  height: 350px;
+  background-size: cover;
+  border: 4px solid white;
+  margin: 5px;
+
+}
+
+.text{
+  position: relative;
+  text-align: center;
+  top: 150px;
+}
+
+
+#cruise{
+  background-image: url("cruise.jpg");
+}
+
+#ferris-wheel{
+  background-image: url("ferris_wheel.jpg");
+  background-size: 400px 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#sea{
+  background-image: url("sea.jpg");
+  background-size: 360px 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+#school{
+  background-image: url("school.jpg");
+  background-size: 360px 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#codes{
+  background-image: url("codes.jpg");
+  background-size: 360px 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#target{
+  background-image: url("target.jpg");
+  background-size: 360px 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#carnival{
+  background-image: url("carnival.jpg");
+  background-size: 360px 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#food{
+  background-image: url("food.jpg");
+  background-size: 360px 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#sweets{
+  background-image: url("sweets.jpg");
+  background-size: 360px 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#cruise{
+  background-image: url("cruise.jpg");
+  background-size: 360px 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#laptop{
+  background-image: url("laptop.jpg");
+  background-size: 360px 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
